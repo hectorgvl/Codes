@@ -1,0 +1,33 @@
+  agua 
+  ambiente 
+  atmosfera 
+  atmosferico 
+  atmosferica 
+  biodiversidad 
+  conservacion 
+  cuenca 
+  cuencas 
+  diversidad biologica 
+  diversidad 
+  riqueza de especies 
+  diversidad genetica 
+  endemico 
+  endemica 
+  erosion 
+  fauna 
+  flora 
+  hidrocarburos 
+  manejo 
+  gestion 
+  recursos marinos 
+  oceano 
+  mar 
+  suelo
+  suelo verde 
+  suelos verdes
+  vulnerabilidad 
+  adaptacion 
+  mitigación 
+  monitoreo 
+  territorio 
+  territorial 
